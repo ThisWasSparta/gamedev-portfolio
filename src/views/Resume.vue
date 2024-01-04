@@ -3,24 +3,22 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
+      I'm <strong>Floris Kuiper</strong>, a junior dev with a passion for anything video game related.
+      <br />I'm currently studying game development at the HvA in Amsterdam. I work primarily in Unity, (C# being my favourite language of all) but I've also worked with platforms like Godot, PlayCanvas, Android Studio and I'm always eager to learn a new platform or language.
       <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
+      <br />Besides programming I also create <router-link to="/other-projects">my own art</router-link> in Aseprite or Blender, to really make the games I create feel like they're my own.
+      <br />
+      <br />I'm currently looking for a job. If my skills could be of any use to you, by all means, feel free to 
       <router-link to="/contact">contact me</router-link>.
-      <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
+        <a class="download-link" href="d/cv-nl.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download als PDF 🇳🇱</a>
         <div style="clear:both"></div>
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-photo.png" alt="Picture of yours truly." />
     </div>
 
     <div style="clear:both"></div>
@@ -28,77 +26,61 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
+      <h3>Developer Intern - Wanted5Games, Haarlem, The Netherlands</h3>
+      <h4>2022-2023</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>Worked with a team of devs, artists and a designer on various HTML5 games in PlayCanvas.
+      <br /> <a href="http://wanted5games.com" target="_blank">https://wanted5games.com</a>
+      </div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">PlayCanvas, Javascript, HTML5</div>
 
       <h2>Skills</h2>
 
       <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
+        <h3>Software</h3>
+        <SkillRate name="Unity" :rate="4" />
+        <SkillRate name="Aseprite" :rate="4" />
+        <SkillRate name="PlayCanvas" :rate="3" />
+        <SkillRate name="Blender" :rate="2" />
+        <SkillRate name="Godot" :rate="1" />
+        <SkillRate name="Android Studio" :rate="1" />
+        <SkillRate name="Audacity" :rate="1" />
       </div>
 
       <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
+        <h3>Languages</h3>
+        <SkillRate name="C#" :rate="4" />
+        <SkillRate name="Java" :rate="3" />
+        <SkillRate name="JavaScript" :rate="3" />
+        <SkillRate name="Kotlin" :rate="2" />
       </div>
       <div style="clear:both" />
 
       <h2>Education</h2>
 
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
+      <h3>HBO ICT - Game Dev @ Applied University of Amsterdam 2019 - Now</h3>
+      <h4>Bachelor degree</h4>
+      <div>Worked on projects in groups of 4-5, exams, the usual.</div>
 
       <h2>Languages</h2>
 
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
+      <h3>Dutch</h3>
+      <div>My mother tongue.</div>
 
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
+      <h3>English</h3>
+      <div>Fluent, with a slight british accent from all the british friends I had/television I watched growing up.</div>
 
 
       <h2>Besides...</h2>
       <div>
-        <h3>I ❤️ Violence</h3>
-        <div>I find it really soothing to just shoot at bad guys</div>
+        <h3>I ❤️ Video Games</h3>
+        <div>Kind of speaks for itself. Some of my favourite titles ever include PAYDAY 2, Terraria, Dragon Quest XI, Skyrim and Slay the Spire.
+        <br />Currently I'm playing Lethal Company with friends, keeping up with Honkai: Star Rail and playing Splatoon 3 on Switch.
+        </div>
 
-        <h3>I 🧡 Sports</h3>
-        <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>
-
-        <h3>I 💛 Politics</h3>
-        <div>I hope I can have a career here someday but I might have temper issues.</div>
-
-        <h3>I 💚 Flowers</h3>
-        <div>Especially the big ones, with the trunk and leaves.</div>
+        <h3>I 🧡 Music</h3>
+        <div>Power metal, black metal, death metal, I'll listen to any kind of metal. Blind Guardian, Slayer, Misery Index and Beast in Black are among my all-time favs.</div>
 
       </div>
     </div>

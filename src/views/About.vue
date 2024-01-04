@@ -4,17 +4,18 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        My name is <strong>Floris Kuiper</strong>, a junior dev with a passion for making/playing games.<br/>
+        I like listening to music, creating pixel art and of course, playing games.<br/>
+		Unity is my engine of choice. I've worked with it for about 3 years now, working on personal projects and exploring concepts I find interesting.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">Here you'll find the  <router-link to="/game-projects">games</router-link> I've worked on, <router-link to="/other-projects">art I've made</router-link>, as well as my <router-link to="/resume">resume</router-link>.</div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong>. If you're in need of a developer, by all means, get in contact. You can reach me at <a href="mailto:floris245@gmail.com">floris245@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/avatar.png" alt="A picture of yours truly." /> 
     </div>
 
     <div style="clear:both"></div>
