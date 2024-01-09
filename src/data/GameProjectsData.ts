@@ -1,153 +1,67 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "Top Down Roguelike", "img/projects/characterswapgame.png", 
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+     This project is something I've been working on whenever inspiration struck/time allowed the last couple years.
     </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
-    </div>
-
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
+	
+	<div class="paragraph">
+    WIP entry, not much to see here... yet!~
     </div>
     `, "#23bd69", true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "Butterfly Shimai", "img/projects/ButterflyShimaiTeaser.jpg", `
     <div class="paragraph">
-        <strong>Optimistic Chubby Blog</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
+        <strong>Butterfly Shimai</strong> is a game I worked on during my internship at Wanted5Games, available for play on most modern browsers. The objective is to clear the grid by uniting wings of a similar type.
+        <br/>This was the game I had by far the most involvement in during my time at Wanted5Games. I was tasked with programming various gameplay systems like the way the butterflies merge together when matched or the powerups.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
+        <iframe class="youtube" src="https://www.youtube.com/embed/w_GnFibjxHU?si=8SbThr5_kO9yHCxZ" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Playable in the browser (WebGL) on <a href="https://www.crazygames.com/game/butterfly-shimai" target="_blank">crazygames.com</a>. (Do let me know if this link ever breaks.)
     </div>
-    </div>
-
-    <div class="paragraph center">
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "Garden Bloom", "img/projects/garden-bloom-game.webp", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <strong>Garden Bloom</strong> is another game I worked on during my time at Wanted5Games. This one is a typical match 3 game where you're tasked with restoring your grandpa's old garden to its former glory.
+        <br/>My contributions for this game were small but numerous. Things like refactoring UI code, implementing animations requested by the design lead and fixing bugs were among my tasks.
     </div>
+	
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <img class="pc-screenshot" src="img/projects/4.png" alt="Screenshot of game" />
+        <img class="pc-screenshot" src="img/projects/2.png" alt="Screenshot of game" />
+        <img class="pc-screenshot" src="img/projects/1.png" alt="Screenshot of game" />
+        <img class="pc-screenshot" src="img/projects/3.png" alt="Screenshot of game" />
     </div>
-
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
+	
     <div class="paragraph">
         <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Playable in the browser (WebGL) on <a href="https://www.crazygames.com/game/garden-bloom" target="_blank">crazygames.com</a>. (Do let me know if this link ever breaks.)
         </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Crowd Surfer Smasher", "img/projects/crowdgame.png", `
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    This is a simple high score based game I made in a little week long self-imposed game jam. 
+    <br/>You play as a bouncer at a concert and your job is to grab any fence jumpers and chuck them back into the crowd. Bouncing them into one another gets you more points.
+    If they reach the band they will take them out. When there's no band members left standing you lose.
     </div>
-    
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
-    </div>
-
+	
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <iframe class="youtube" src="https://youtube.com/embed/Lq4OoRs4a3Y" frameborder="0" allowfullscreen></iframe>
     </div>
     `, "#e80fb7"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
+    new ProjectData("project-5", "Level Generation System", "img/projects/generated-map.png", `
     <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
-    </div>
-    
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
+        This is a system I created for generating levels using various algorithms during the gameplay engineering semester at the HvA. It works by letting users "construct" templates for generating levels by adding layers, each representing a specific operation.
+        <br/>For more details on my process building this system check out this blog post I wrote about it for the HvA's website.
+        <br/><a href="https://summit-2223-sem2.game-lab.nl/2023/04/11/level-generation-system-for-topdown-2d-games/" target="_blank">hva-game-lab.nl/level-generation-system-for-topdown-2d-games/</a>
     </div>
 
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246")
+    `, "#e48246")
 ];

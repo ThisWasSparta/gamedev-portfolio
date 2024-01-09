@@ -6,18 +6,13 @@
       I'm <strong>Floris Kuiper</strong>, a junior dev with a passion for anything video game related.
       <br />I'm currently studying game development at the HvA in Amsterdam. I work primarily in Unity, (C# being my favourite language of all) but I've also worked with platforms like Godot, PlayCanvas, Android Studio and I'm always eager to learn a new platform or language.
       <br />
-      <br />Besides programming I also create <router-link to="/other-projects">my own art</router-link> in Aseprite or Blender, to really make the games I create feel like they're my own.
+      <br />Besides programming I also create <router-link to="/other-projects">my own art assets</router-link> in Aseprite or Blender, to really make the games I create feel like they're my own.
       <br />
       <br />I'm currently looking for a job. If my skills could be of any use to you, by all means, feel free to 
-      <router-link to="/contact">contact me</router-link>.
-
-      <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-nl.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download als PDF 🇳🇱</a>
-        <div style="clear:both"></div>
-      </div>
+      <router-link to="/contact">contact me</router-link>!
+      <br />
     </div>
-    <div class="photo">
+    <div class="photo" style="margin-top: -15px;">
       <img src="img/resume-photo.png" alt="Picture of yours truly." />
     </div>
 
