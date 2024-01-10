@@ -4,21 +4,6 @@ export default [
     new ProjectData("project-6", "3D modeling + low res texturing", "img/projects/car.png", `
     <div class="paragraph">
       Combining my knowledge in pixel art with 3D modeling, I created this futuristic looking car.
-      <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.
-            </div>
-            <div class="paragraph center">
-              <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
-          </div>
-
-          <div class="paragraph">
-            Main features :
-            <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
-            </ul>
-        </div>
 
         <div class="paragraph center">
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
@@ -47,33 +32,15 @@ export default [
                 <img class="pc-screenshot" src="img/projects/rogue.gif" />
                 <img class="pc-screenshot" src="img/projects/wizard.gif" /> 
             </div>`, "#1ca1e2"),
-    new ProjectData("project-8", "Various Graphics", "img/projects/project-8-icon.png", `
+    new ProjectData("project-8", "Various Graphics", "img/projects/charactercollage.png", `
     <div class="paragraph">
-                <strong>The Art of Walking</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
+                Here's some samples of the spritework I've done in the years I've been learning game development.
             </div>
-
-            <div class="paragraph center">
-              <a href="https://play.google.com/store/apps/details?id=someapp" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
-          </div>
-
-          <div class="paragraph">
-          Main features :
-          <ul>
-          <li>Some stuff</li>
-          <li>Some great stuff</li>
-          <li>More awesome stuff</li>
-          <li>And then some</li>
-          </ul>
-      </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>
-
-            <div class="paragraph center">
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-            </div>`),
+        <div class="paragraph center">
+          <img class="pc-screenshot" src="img/projects/charactercollage-export.png" alt="Collage of characters. Some original, some not." />
+        </div><div class="paragraph center">
+          <img class="pc-screenshot" src="img/projects/collageitems-export.png" alt="Collage of item sprites" />
+        </div><div class="paragraph center">
+          <img class="pc-screenshot" src="img/projects/collagetileset-export.png" alt="Collage of tileset graphics" /> 
+        </div>`),
 ];
