@@ -12,6 +12,11 @@ export default [
           <img class="pc-screenshot" src="img/projects/car-top-ortho.png" alt="Car from above, orthographic camera" /> 
         </div>
     `, "#c10606", false, true),
+	new ProjectData("project-9", "Humanoid Character", "i'm/projects/nicholas.png",`
+	<div class="paragraph">
+	This was my first attempt at creating a humanoid character from scratch.
+	</div>
+	`),
     new ProjectData("project-7", "2D Animation", "img/projects/knight.gif", `
     <div class="paragraph">
                 Here's some examples of 2D animations I've made in Aseprite, primarily for the top down game discussed in the games section.
@@ -27,10 +32,10 @@ export default [
                 Here's some samples of the spritework I've created in the years I've been learning game development.
             </div>
         <div class="paragraph center">
-          <img class="pc-screenshot" src="img/projects/charactercollage-export.png" alt="Collage of characters. Some original, some not." />
+          <img class="large-image-collage" src="img/projects/charactercollage-export.png" alt="Collage of characters. Some original, some not." />
         </div><div class="paragraph center">
-          <img class="pc-screenshot" src="img/projects/collageitems-export.png" alt="Collage of item sprites" />
+          <img class="large-image-collage" src="img/projects/collageitems-export.png" alt="Collage of item sprites" />
         </div><div class="paragraph center">
-          <img class="pc-screenshot" src="img/projects/collagetileset-export.png" alt="Collage of tileset graphics" /> 
+          <img class="large-image-collage" src="img/projects/collagetileset-export.png" alt="Collage of tileset graphics" /> 
         </div>`),
 ];
