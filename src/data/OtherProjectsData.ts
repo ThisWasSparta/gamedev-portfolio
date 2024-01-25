@@ -24,23 +24,23 @@ export default [
 	`),
     new ProjectData("project-7", "2D Animation", "img/projects/knight.gif", `
     <div class="paragraph">
-                Here's some examples of 2D animations I've made in Aseprite, primarily for the top down game discussed in the games section.
+        Here's some examples of 2D animations I've made in Aseprite, primarily for the top down game discussed in the games section.
     </div>
 
     <div class="paragraph center">
 		<img class="pc-screenshot" src="img/projects/knight.gif" />
 		<img class="pc-screenshot" src="img/projects/rogue.gif" />
-		<img class="pc-screenshot" src="img/projects/wizard.gif" /> 
+	    <img class="pc-screenshot" src="img/projects/wizard.gif" /> 
 	</div>`, "#1ca1e2"),
     new ProjectData("project-8", "Various Graphics", "img/projects/charactercollage-export.png", `
     <div class="paragraph">
                 Here's some samples of the spritework I've created in the years I've been learning game development.
-            </div>
-				<div class="paragraph center">
-				  <img class="large-image-collage" src="img/projects/charactercollage-export.png" alt="Collage of characters. Some original, some not." />
-				</div><div class="paragraph center">
-				  <img class="large-image-collage" src="img/projects/collageitems-export.png" alt="Collage of item sprites" />
-				</div><div class="paragraph center">
-				  <img class="large-image-collage" src="img/projects/collagetileset-export.png" alt="Collage of tileset graphics" /> 
-			</div>`),
+	</div>
+		<div class="paragraph center">
+		  <img class="large-image-collage" src="img/projects/charactercollage-export.png" alt="Collage of characters. Some original, some not." />
+		</div><div class="paragraph center">
+		  <img class="large-image-collage" src="img/projects/collageitems-export.png" alt="Collage of item sprites" />
+		</div><div class="paragraph center">
+		  <img class="large-image-collage" src="img/projects/collagetileset-export.png" alt="Collage of tileset graphics" /> 
+	</div>`),
 ];
