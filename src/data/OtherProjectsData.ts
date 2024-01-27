@@ -17,8 +17,9 @@ export default [
 	This was my first attempt at creating a humanoid character from scratch. Proper topology for a model like this is paramount if you want it to look good when animating. I swiftly learned that there's a lot of things to know and keep in mind.\n
 	I started with the face, slowly working my way down from there to the character's torso, shoulders, arms and hands.
 		<div class="paragraph center">
-			  <img class="pc-screenshot" src="img/projects/shoulder-topology.png" alt="Car's front" />
-			  <img class="pc-screenshot" src="img/projects/face-topology.png" alt="Car's back" />
+			  <img class="pc-screenshot" src="img/projects/nicholas-shoulder-topology.png" alt="Shoulder topology" />
+			  <img class="pc-screenshot" src="img/projects/nicholas-face-topology.png" alt="Face topology" />
+			  <img class="pc-screenshot" src="img/projects/nicholas-arm-topology.png" alt="Arm topology" />
 			</div>
 		</div>
 	`),

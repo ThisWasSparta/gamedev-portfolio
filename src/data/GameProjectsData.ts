@@ -45,6 +45,15 @@ export default [
         </div>
     </div>
     `, "#383838"),
+	new ProjectData("project-6", "Galaxy Conqueror", "img/projects/GalaxyConqueror.png", 
+	`
+	<div class="paragraph">
+	Ah, humble beginnings. This was the first game I'd ever written code for. Written in Java and running inside of a program named Processing, it was my first year's project at the HvA. I worked on it alongside 5 others, 4 of which dropped out of college before the year was over. As to be expected of a first ever game, it's pretty generic and poorly designed, but everyone has to start somewhere, right?
+	</div>
+    <div class="paragraph center">
+	    <iframe class="youtube" src="https://www.youtube.com/embed/nXIjUFOitkM" frameborder="0" allowfullscreen></iframe>
+	</div>
+	`, "#5a78af"),
     new ProjectData("project-4", "Crowd Surfer Smasher", "img/projects/crowdgame.png", `
     <div class="paragraph">
     This is a simple high score based game I made in a little week long self-imposed game jam. 
