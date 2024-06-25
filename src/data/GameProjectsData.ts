@@ -4,7 +4,7 @@ export default [
     new ProjectData("project-1", "Top Down Roguelike", "img/projects/characterswapgame.png", 
     `
     <div class="paragraph">
-     This project is something I've been working on whenever inspiration struck/time allowed the last couple years.
+    This project is something I've been working on whenever inspiration struck/time allowed the last couple years.
     </div>
 	
 	<div class="paragraph">
@@ -14,7 +14,7 @@ export default [
     new ProjectData("project-2", "Butterfly Shimai", "img/projects/ButterflyShimaiTeaser.jpg", `
     <div class="paragraph">
         <strong>Butterfly Shimai</strong> is a game I worked on during my internship at Wanted5Games, available for play on most modern browsers. The objective is to clear the grid by uniting wings of a similar type.
-        <br/>This was the game I had by far the most involvement in during my time at Wanted5Games. I was tasked with programming various gameplay systems like the way the butterflies merge together when matched or the powerups.
+        <br/>This was the game I had by far the most involvement in during my time at Wanted5Games. I was tasked with programming various gameplay systems like the way the butterflies merge together when matched and the powerups.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/w_GnFibjxHU?si=8SbThr5_kO9yHCxZ" frameborder="0" allowfullscreen></iframe>
@@ -45,6 +45,29 @@ export default [
         </div>
     </div>
     `, "#383838"),
+	new ProjectData("project-7", "Thesis Project", "img/projects/dragon-game-teaser.png", `
+	<div class="paragraph">
+		The culmination of 5 years of studying, a mobile puzzler game I made all by myself, art and everything.
+		<br/>Summarized neatly as "Towers of hanoi crossed with Tetris".
+		<br/>
+		<br/>You've heard about an ancient treasure, said to be guarded by a fierce dragon and decide to investigate. But oh no, the cave is cursed! As soon as you step inside, a large boulder comes down from the ceiling, blocking your way out.
+		<br/>As it turns out, however, the dragon is not that fierce at all. His name is Smog and his flame has long since been extinguished. Now he remains in this cave to guard the treasure left to him by his late master.
+		<br/>There is still hope, however. Should his treasure be sorted by colour, it might just weaken the curse enough for you to make your escape.
+		<br/>
+		<br/>(There's gonna be some screenshots here at some point, but for now you'll have to imagine them. I'm running a tight ship here!)
+		<br/>
+		<br/>If all goes well it'll be live on the play store sometime in late june, early august! Mark your calendars!
+		<br/>(or don't, it's a free country...)
+	</div>
+	`, "#e48246"),
+	new ProjectData("project-5", "Level Generation System", "img/projects/generated-map.png", `
+    <div class="paragraph">
+        This is a system I created for generating levels using various algorithms during the gameplay engineering semester at the HvA. It works by letting users "construct" templates for generating levels by adding layers, each representing a specific operation.
+        <br/>For more details on my process building this system check out this blog post I wrote about it for the HvA's website.
+        <br/><a href="https://summit-2223-sem2.game-lab.nl/2023/04/11/level-generation-system-for-topdown-2d-games/" target="_blank">hva-game-lab.nl/level-generation-system-for-topdown-2d-games/</a>
+		<br/>('Pologies if the website won't load. Sometimes it's just not online. It's out of my hands.)
+    </div>
+    `, "#e48246"),
 	new ProjectData("project-6", "Galaxy Conqueror", "img/projects/GalaxyConqueror.png", 
 	`
 	<div class="paragraph">
@@ -64,13 +87,16 @@ export default [
     <div class="paragraph center">
         <iframe class="youtube" src="https://youtube.com/embed/Lq4OoRs4a3Y" frameborder="0" allowfullscreen></iframe>
     </div>
-    `, "#e80fb7"),
-    new ProjectData("project-5", "Level Generation System", "img/projects/generated-map.png", `
+    `, "#e80fb7")
+    
+	/*new ProjectData("project-9", "Municipality AR", "img/projects/arbijlmer.png", 
+    `
     <div class="paragraph">
-        This is a system I created for generating levels using various algorithms during the gameplay engineering semester at the HvA. It works by letting users "construct" templates for generating levels by adding layers, each representing a specific operation.
-        <br/>For more details on my process building this system check out this blog post I wrote about it for the HvA's website.
-        <br/><a href="https://summit-2223-sem2.game-lab.nl/2023/04/11/level-generation-system-for-topdown-2d-games/" target="_blank">hva-game-lab.nl/level-generation-system-for-topdown-2d-games/</a>
+     This application was made in 
     </div>
-
-    `, "#e48246")
+	
+	<div class="paragraph">
+    WIP entry, not much to see here... yet!~
+    </div>
+    `, "#23bd69", true),*/
 ];
