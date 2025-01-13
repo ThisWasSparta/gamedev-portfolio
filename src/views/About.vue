@@ -6,7 +6,7 @@
       <div>
         My name is <strong>Floris Kuiper</strong>, a junior dev with a passion for making/playing games.<br/>
         I like listening to music, creating pixel art and of course, playing games.<br/>
-		Unity is my engine of choice. I've worked with it for about 3 years now, working on personal projects and exploring concepts I find interesting.
+		I've worked with Unity for about 4 years now for both coursework and personal projects. I have however started shifting my focus to Godot to diversify my skill set.
       </div>
 
       <div style="margin-top: 20px;">Here you'll find the  <router-link to="/game-projects">games</router-link> I've worked on, <router-link to="/other-projects">art I've made</router-link>, as well as my <router-link to="/resume">resume</router-link>.</div>
