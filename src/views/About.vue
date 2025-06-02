@@ -11,7 +11,7 @@
 
       <div style="margin-top: 20px;">Here you'll find the  <router-link to="/game-projects">games</router-link> I've worked on, <router-link to="/other-projects">art I've made</router-link>, as well as my <router-link to="/resume">resume</router-link>.</div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong>. If you're in need of a developer, by all means, get in contact. You can reach me at <a href="mailto:floris245@gmail.com">floris245@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">Currently I'm currently working as a <a href="https://www.servicenow.com/" target="_blank">ServiceNow</a> developer trainee at <a href="https://www.experis.nl/nl/over-ons" target="_blank">Experis</a>. While I'm not actively looking for a job I'm always open to making new connections. You can reach me at <a href="mailto:floris245@gmail.com">floris245@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">

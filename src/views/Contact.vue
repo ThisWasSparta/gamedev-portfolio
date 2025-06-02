@@ -3,7 +3,8 @@
     
     <h1>Let's get in touch!</h1>
 
-    <div style="margin-bottom:40px;">I'm currently looking for a job.<br/>Feel free to contact me about any opportunity, questions or just to chat about gamedev, music or anything else.</div>
+    <div style="margin-bottom:40px;">While I'm no longer actively looking for work, I'm always open to making new connections.
+	<br />Feel free to contact me about any opportunity, questions or just to chat about gamedev, music or anything else.</div>
 
     <ul>
       <li>

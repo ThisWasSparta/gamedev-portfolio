@@ -4,12 +4,11 @@
 
     <div class="paragraph">
       I'm <strong>Floris Kuiper</strong>, a junior dev with a passion for anything video game related.
-      <br />I recently graduated from the HvA(AUAS) in Amsterdam! I work primarily in Unity, C# being my favourite language of all, but I'm starting to shift towards Godot. I've also worked in PlayCanvas, Android Studio and I'm always eager to learn a new platform or language.
+      <br />In August of 2024 I graduated from the HvA (AUAS) in Amsterdam! I work primarily in Unity, C# being my favourite language of all, but I'm starting to shift towards Godot. I've also worked in PlayCanvas, Android Studio and I'm always eager to learn a new platform or language.
       <br />
       <br />Besides programming I also create <router-link to="/other-projects">my own art assets</router-link> in Aseprite or Blender, to really make the games I create feel like they're my own.
       <br />
-      <br />I'm currently looking for a job. If my skills could be of any use to you, by all means, feel free to 
-      <router-link to="/contact">contact me</router-link>!
+      <br />I'm currently working as a <a href="https://www.servicenow.com/" target="_blank">ServiceNow</a> developer trainee at <a href="https://www.experis.nl/nl/over-ons" target="_blank">Experis</a>.
       <br />
     </div>
     <div class="photo" style="margin-top: -15px;">
@@ -20,6 +19,13 @@
 
     <div class="full-content">
       <h2>Work experience</h2>
+      <h3>ServiceNow Developer Trainee - Experis, Utrecht/Amsterdam Area, The Netherlands</h3>
+      <h4>2025-Now</h4>
+      <div>Working with a group of 3 others, learning the in and outs of ServiceNow. 
+      <br /> <a href="https://www.servicenow.com/" target="_blank">https://www.servicenow.com/</a>
+      </div>
+
+      <div class="tech-stack">ServiceNow, Javascript</div>
 
       <h3>Developer Intern - Wanted5Games, Haarlem, The Netherlands</h3>
       <h4>2022-2023</h4>
