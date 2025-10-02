@@ -27,10 +27,6 @@
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
         <a href="https://skeletonmakesgames.itch.io/" target="_blank">skeletonmakesgames.itch.io (Work in progress)</a>
       </li>
-      <li>
-        <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/AlmightySkeletor/" target="_blank">steamcommunity.com/id/AlmightySkeletor/</a>
-      </li>
     </ul>
 
   </div>
