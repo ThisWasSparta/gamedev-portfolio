@@ -4,11 +4,11 @@
 
     <div class="paragraph">
       I'm <strong>Floris Kuiper</strong>, a junior dev with a passion for anything video game related.
-      <br />In August of 2024 I graduated from the HvA (AUAS) in Amsterdam! I work primarily in Unity, C# being my favourite language of all, but I'm starting to shift towards Godot. I've also worked in PlayCanvas, Android Studio and I'm always eager to learn a new platform or language.
+      <br />In August of 2024 I graduated from the HvA (AUAS) in Amsterdam. I'm now also a certified (CSA & CIS-ITSM) <a href="https://www.servicenow.com/" target="_blank">ServiceNow</a> developer! I work primarily in Unity for my personal projects, C# being my favourite language of all.
       <br />
       <br />Besides programming I also create <router-link to="/other-projects">my own art assets</router-link> in Aseprite or Blender, to really make the games I create feel like they're my own.
       <br />
-      <br />I'm currently working as a <a href="https://www.servicenow.com/" target="_blank">ServiceNow</a> developer trainee at <a href="https://www.experis.nl/nl/over-ons" target="_blank">Experis</a>.
+      <br />I'm currently looking for a job! If you're in need of someone with knowledge of ServiceNow, Unity or C#/.NET in general, do get in touch.
       <br />
     </div>
     <div class="photo" style="margin-top: -15px;">
@@ -20,8 +20,8 @@
     <div class="full-content">
       <h2>Work experience</h2>
       <h3>ServiceNow Developer Trainee - Experis, Utrecht/Amsterdam Area, The Netherlands</h3>
-      <h4>2025-Now</h4>
-      <div>Working with a group of 3 others, learning the in and outs of ServiceNow. 
+      <h4>2025 June-December</h4>
+      <div>Worked with a group of 3 others to learn the ins and outs of ServiceNow. 
       <br /> <a href="https://www.servicenow.com/" target="_blank">https://www.servicenow.com/</a>
       </div>
 
@@ -62,7 +62,7 @@
       <h2>Education</h2>
 
       <h3>HBO ICT - Game Dev @ Applied University of Amsterdam 2019 - 2024</h3>
-      <h4>Bachelor degree, graduated in August of 2024.</h4>
+      <h4>Bachelor's degree, graduated in August of 2024.</h4>
       <div>Worked on projects in groups of 4-5, did exams, the usual.</div>
 
       <h2>Languages</h2>
@@ -77,12 +77,12 @@
       <h2>Besides this, my hobbies include...</h2>
       <div>
         <h3>Video Games</h3>
-        <div>Kind of speaks for itself. Some of my favourite titles ever include PAYDAY 2, Terraria, Dragon Quest XI, Skyrim and Slay the Spire.
-        <br/>Currently I play a lot of Lethal Company and Helldivers 2 with friends, keeping up with Honkai: Star Rail and playing Splatoon 3 on Switch.
+        <div>This one goes without saying. Some of my favourite titles ever include PAYDAY 2, Terraria, Dragon Quest XI, Skyrim and Slay the Spire.
+        <br/>Currently I'm playing a lot of Lethal Company and Helldivers 2 with friends, keeping up with Honkai: Star Rail and playing through Cyberpunk 2077 on Switch.
         </div>
 
         <h3>Music</h3>
-        <div>Power metal, black metal, death metal, I'll listen to any kind of metal. Blind Guardian, Slayer, Misery Index and Beast in Black are among my all-time favs.
+        <div>Power metal, black metal, death metal, I'll listen to any kind of metal. Blind Guardian, Slayer, Misery Index, Sabbat (the japanese one) and Beast in Black are among my all-time favs.
 		<br/>Currently listening a lot to Orbit Culture. Any recommendations are more than welcome.
 		</div>
 

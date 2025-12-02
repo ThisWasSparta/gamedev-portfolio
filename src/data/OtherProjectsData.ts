@@ -1,6 +1,12 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
+	new ProjectData("project-10", "Modeling environments", "img/projects/room-thumbnail-wide.png", `
+	<div class="paragraph">
+	What started as a few random models for practice quickly grew into an entire scene. An antique dining room complete with furnishing, food & decoration.\n
+	<br />
+	<img class="full-img" src="img/projects/room-progress-final.png" alt="Manor dining room." />
+	`, "#c10606", false, true),
     new ProjectData("project-6", "3D modeling + low res texturing", "img/projects/car.png", `
     <div class="paragraph">
       Combining my knowledge in pixel art with 3D modeling, I created this futuristic looking car.
@@ -11,7 +17,7 @@ export default [
           <img class="pc-screenshot" src="img/projects/car-side-ortho.png" alt="Car's side, orthographic camera" /> 
           <img class="pc-screenshot" src="img/projects/car-top-ortho.png" alt="Car from above, orthographic camera" /> 
         </div>
-    `, "#c10606", false, true),
+    `, "#c10606"),
 	new ProjectData("project-9", "Humanoid Character", "img/projects/nicholas.png",`
 	<div class="paragraph">
 	This was my first attempt at creating a humanoid character from scratch. Proper topology for a model like this is paramount if you want it to look good when animating. I swiftly learned that there's a lot of things to know and keep in mind.\n
@@ -33,7 +39,7 @@ export default [
 		<img class="pc-screenshot" src="img/projects/rogue.gif" />
 	    <img class="pc-screenshot" src="img/projects/wizard.gif" /> 
 	</div>`, "#1ca1e2"),
-    new ProjectData("project-8", "Various Graphics", "img/projects/charactercollage-export.png", `
+    new ProjectData("project-8", "Various Sprite Graphics", "img/projects/charactercollage-export.png", `
     <div class="paragraph">
                 Here's some samples of the spritework I've created in the years I've been learning game development.
 	</div>
