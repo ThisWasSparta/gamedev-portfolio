@@ -3,9 +3,11 @@ import ProjectData from '@/data/ProjectData.ts'
 export default [
 	new ProjectData("project-10", "Modeling environments", "img/projects/room-thumbnail-wide.png", `
 	<div class="paragraph">
-	What started as a few random models for practice quickly grew into an entire scene. An antique dining room complete with furnishing, food & decoration.\n
+	What started as a few random models for practice quickly grew into an entire scene. An antique dining room complete with furnishing, food & decoration.
 	<br />
 	<img class="full-img" src="img/projects/room-progress-final.png" alt="Manor dining room." />
+	<br /> 
+	<div/>
 	`, "#c10606", false, true),
     new ProjectData("project-6", "3D modeling + low res texturing", "img/projects/car.png", `
     <div class="paragraph">
