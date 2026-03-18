@@ -11,7 +11,7 @@ export default [
 	`, "#c10606", false, true),
     new ProjectData("project-6", "3D modeling + low res texturing", "img/projects/car.png", `
     <div class="paragraph">
-      Combining my knowledge in pixel art with 3D modeling, I created this futuristic looking car.
+      Back in 2023 I first picked up Blender. While I was figuring out the workflow, I came across a video that showed off how you can combine pixel art with 3D modeling. Using my previous experience drawing pixel art, I created this futuristic looking car.
 
         <div class="paragraph center">
           <img class="pc-screenshot" src="img/projects/car-front-side.png" alt="Car's front" />
@@ -19,6 +19,9 @@ export default [
           <img class="pc-screenshot" src="img/projects/car-side-ortho.png" alt="Car's side, orthographic camera" /> 
           <img class="pc-screenshot" src="img/projects/car-top-ortho.png" alt="Car from above, orthographic camera" /> 
         </div>
+	
+	This was the first model I'd ever made in this low-resolution, sharply pixelated style and immediately, it stuck. There's just something so pleasing about the way low resolution textures look on 3D models. It resembles the kinds of texture work you'd see in games on the Nintendo DS, the system that pretty much introduced me to video games. Move over PSX, the 20 year nostalgia cycle has reached the mid 2000s...
+	
     `, "#c10606"),
 	new ProjectData("project-9", "Humanoid Character", "img/projects/nicholas.png",`
 	<div class="paragraph">

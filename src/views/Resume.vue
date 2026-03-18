@@ -85,6 +85,10 @@
         <div>Power metal, black metal, death metal, I'll listen to any kind of metal. Blind Guardian, Slayer, Misery Index, Sabbat (the japanese one) and Beast in Black are among my all-time favs.
 		<br/>Currently listening a lot to Orbit Culture. Any recommendations are more than welcome.
 		</div>
+		
+		<h3>Reading</h3>
+        <div>Commutes by train are the perfect opportunity for some reading, and when I do I read pretty much exclusively non-fiction. Currently working through books about history and political philosophy.
+		</div>
 
 		<h3>YouTube</h3>
         <div>Watching others play games or discuss wide ranges of topics is my favourite way to spend a lazy afternoon, longform content being my favourite kind.

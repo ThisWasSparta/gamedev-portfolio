@@ -11,7 +11,7 @@ export default [
 		<br/>
 		<br/>(There'll be some screenshots here when I figure out how to get portrait images to play nice, bear with me 🐻)
 		<br/>
-		<br/>The game was initially set to release after my graduation. After delays both within and outside of my control, I'm aiming to have the game publically playable before the end of the year. No promises :^)
+		<br/>Work is currently underway! I'm planning on having a work in progress build up for play soon™. No promises :^)
 	</div>
 	`, "#e48246", true),
     new ProjectData("project-2", "Butterfly Shimai", "img/projects/ButterflyShimaiTeaser.jpg", `
@@ -84,7 +84,7 @@ export default [
     </div>
 	
 	<div class="paragraph">
-	What quickly became clear to me when working on this project is that you can't just start working on something without a clear vision and expect something good to pop out the other end.
+	This game is abandoned. What became clear to me throughout the work on this project is that you can't just start working on something without a clear vision and expect something good to pop out the other end.
 	<br/>
 	<br/>I'd been playing various roguelike games around the time I started this project, which ended up being the vague direction for it. I doodled a little wizard, knight, rogue and archer, because that's what you expect in a dungeon crawler, right? Turns out that when your game consists of a bunch of half-remembered genre conventions you don't end up with a compellingly designed game. Who knew?
 	<br/>
@@ -139,8 +139,8 @@ export default [
     </div>
 	
 	<div class="paragraph">
-	This one turned out to be a lot of fun to play, even in this most basic form. Throw direction/speed is based on the velocity of the player object, which makes throwing accurately quite an involved process. (It also makes throwing jumpers slowly completely busted, but hey ho.)
-	<br/>With some sound effects, better graphics... better animations... Hmmm. Easier said than done, methinks.
+	This one turned out to be a lot of fun to play, even in this most basic form. Throw direction/speed is based on the velocity of the player object, which makes throwing accurately quite an involved process.
+	<br/>There's a neat little game in here. All it needs is some sound effects, better graphics... better animations... Hmmm, yeah nevermind. Big lesson from this project is that it's trivial to come up with fun stuff to put in a game, but that every thing you add pushes the ultimate goal further and further out.
 	</div>
 	
     `, "#e80fb7")
